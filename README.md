@@ -1,6 +1,6 @@
 # Health Countries' Records | Tableau Dashboard
 
-## Project Overview
+## ◆ Project Overview
 
 This project presents a **Global Health Data Dashboard** developed using Tableau.
 
