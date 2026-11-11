@@ -1,4 +1,4 @@
-# Health Countries' Records | Tableau Dashboard
+# 🌍 Health Countries' Records | Tableau Dashboard
 
 ## ◆ Project Overview
 
@@ -8,7 +8,7 @@ It explores health indicators across different countries through geographical vi
 
 The dashboard focuses on life expectancy, birth rates, death rates, infant mortality, and HIV population figures, providing different perspectives for exploring and comparing health-related data across countries.
 
-## Dashboard Preview
+## ◆ Dashboard Preview
 
 ### 1. Geographical Health Overview
 
@@ -43,7 +43,7 @@ The Tableau Story provides a geographical perspective on life expectancy at birt
 
 <img width="1650" height="1275" alt="Health Countries&#39; Records_page-0003" src="https://github.com/user-attachments/assets/c8632eaa-c7ae-4d53-a97d-a5bad55ed1ce" />
 
-## Key Indicators
+## ◆ Key Indicators
 
 The project explores the following health indicators:
 
@@ -55,7 +55,7 @@ The project explores the following health indicators:
 | Life Expectancy | Life expectancy at birth, measured in years |
 | HIV Population | Number of people with HIV across selected countries |
 
-## Tools & Skills
+## ◆ Tools & Skills
 
 - Tableau
 - Data Visualization
@@ -66,7 +66,7 @@ The project explores the following health indicators:
 - Tableau Stories
 - Interactive Dashboard Design
 
-## Project Objectives
+## ◆ Project Objectives
 
 - Explore differences in life expectancy across countries.
 - Compare birth and death rates between countries.
