@@ -8,6 +8,8 @@ It explores health indicators across different countries through geographical vi
 
 The dashboard focuses on life expectancy, birth rates, death rates, infant mortality, and HIV population figures, providing different perspectives for exploring and comparing health-related data across countries.
 
+🔗 [View the live dashboard](https://public.tableau.com/views/Mini4_17943261413570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## ◆ Dashboard Preview
 
 ### 1. Geographical Health Overview
